@@ -1,0 +1,97 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+}
+
+.holder {
+    background-color: #1F2937;
+    
+}
+
+.header {
+    display: flex;
+    margin: 24px;
+    padding: 24px;
+}
+
+.logo {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+a {
+    font-size: 18px;
+    color: #E5E7EB;
+    text-decoration: none;
+}
+
+.links {
+    list-style: none;
+    align-items: flex-end;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.hero {
+   
+}
+
+.hero-main {
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: 900;
+}
+
+.hero-secondary {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+button {
+    color: #3882f6;
+    
+}
+
+.button {
+    
+}
+
+.image {
+    width: 100px;
+    height: 100px;
+}
+
+.cards {
+
+}
+
+.testimonial {
+    background-color: #E5E7EB;
+    
+    
+}
+
+.quote {
+    background-color: #E5E7EB;
+    font-size: 36px;
+    color: #1F2937;
+}
+
+.cta {
+    background-color: #3882f6;
+    flex: 1;
+    
+}
+
+.ctabutton {
+
+}
+
+.footer {
+    background-color: #1F2937;
+    display: flex;
+    flex: auto;
+}
